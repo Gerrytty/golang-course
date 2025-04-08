@@ -15,4 +15,6 @@ func main() {
     } else {
         fmt.Println("NO")
     }
+
+    fmt.Println("ok")
 }
